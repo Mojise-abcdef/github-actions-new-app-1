@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "github-actions-default-fake"
 include(":app")
 include(":common:defaultpack")
+include(":feature:settings")
