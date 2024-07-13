@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "github-actions-default-fake"
+rootProject.name = "github-actions-new-app-1"
 include(":app")
 include(":common:defaultpack")
 include(":feature:settings")
